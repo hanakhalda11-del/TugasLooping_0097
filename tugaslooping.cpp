@@ -82,3 +82,5 @@ case 2:
                 cout << "keluar dari program." << endl;
                 return 0;
              
+default:
+                
