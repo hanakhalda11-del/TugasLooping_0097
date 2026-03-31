@@ -45,3 +45,5 @@ bool isFibonacci(int n)
         a = temp;
     }
     return (b == n || n == 0);
+}
+
