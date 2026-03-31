@@ -39,3 +39,9 @@ bool isFibonacci(int n)
     int b = 1;
     while (b < n)
    
+ {
+        int temp = b;
+        b = a + b;
+        a = temp;
+    }
+    return (b == n || n == 0);
