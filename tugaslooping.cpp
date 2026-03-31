@@ -20,3 +20,4 @@ void inputAngka()
     cin >> angka;
 }
 
+bool isPrima(int n)
