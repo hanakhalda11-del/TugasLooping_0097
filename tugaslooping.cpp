@@ -55,3 +55,16 @@ void tampilkanHasil(bool hasil, string jenis)
         cout << "hasil: " << angka << " adalah bagian dari " << jenis << "." << endl;
     } else
     
+{
+        cout << "hasil: " << angka << " bukan bagian dari " << jenis << "." << endl;
+    }
+}
+
+int main()
+{
+    while (true) 
+    {
+        tampilkanMenu();
+
+        switch (pilihan)
+       
