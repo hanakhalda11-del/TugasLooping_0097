@@ -51,3 +51,7 @@ void tampilkanHasil(bool hasil, string jenis)
 {
     if (hasil)
    
+ {
+        cout << "hasil: " << angka << " adalah bagian dari " << jenis << "." << endl;
+    } else
+    
