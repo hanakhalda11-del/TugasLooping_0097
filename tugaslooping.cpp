@@ -47,3 +47,7 @@ bool isFibonacci(int n)
     return (b == n || n == 0);
 }
 
+void tampilkanHasil(bool hasil, string jenis)
+{
+    if (hasil)
+   
