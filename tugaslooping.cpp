@@ -14,3 +14,9 @@ void tampilkanMenu()
     cin >> pilihan;
 }
 
+void inputAngka()
+{
+    cout << "masukkan angka yang ingin dicek =";
+    cin >> angka;
+}
+
