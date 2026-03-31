@@ -73,4 +73,8 @@ int main()
                 inputAngka();
                 tampilkanHasil(isPrima(angka), "bilangan prima");
                 break;
-            
+case 2:
+                inputAngka();
+                tampilkanHasil(isFibonacci(angka), "deret fibonacci");
+                break;
+                    
