@@ -84,3 +84,8 @@ case 2:
              
 default:
                 
+ cout << "pillihan tidak valid. coba lagi" << endl;
+                break;
+        }
+    }
+    
