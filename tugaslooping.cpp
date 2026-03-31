@@ -78,3 +78,7 @@ case 2:
                 tampilkanHasil(isFibonacci(angka), "deret fibonacci");
                 break;
                     
+ case 0:
+                cout << "keluar dari program." << endl;
+                return 0;
+             
